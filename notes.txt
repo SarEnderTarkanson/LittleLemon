@@ -1,0 +1,2 @@
+superuser credentials: admin / meta1234
+user1 credentials: user1 / meta1234
